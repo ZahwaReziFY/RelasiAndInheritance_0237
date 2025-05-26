@@ -4,3 +4,6 @@ using namespace std;
 
 class jantung {
     public :
+    jantung() {
+        cout << "jantung dihidupkaan\n";
+    }
