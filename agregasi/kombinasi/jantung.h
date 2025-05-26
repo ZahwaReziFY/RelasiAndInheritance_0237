@@ -2,3 +2,5 @@
 #define JANTUNG_H
 using namespace std;
 
+class jantung {
+    
