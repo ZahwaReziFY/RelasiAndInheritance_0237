@@ -11,3 +11,8 @@ public :
         : name(pName) {
             cout << name << "Hidup\n";
         }
+    ~manusia() {
+            cout << name << "mati\n";
+        }
+};
+#endif
